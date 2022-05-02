@@ -1,1 +1,7 @@
-# Marts.Tirums
+# Šis ir mans otrais mājasdarbs
+## 200 vārdu apraksts par mani
+###### Mani sauc Marts. Dzīvoju Jaunolainē, bet mana dzimtā pilsēta ir Rīga un asinīs Kurzeme. Pēc izglītības esmu Ekonomists. Strādāju Lidostā “Rīga”, Mārupes novadā . Ko specifiski daru Lidostā “Rīga”, man nav atļauts izpaust. Lidostā ir strādāts ar ļoti daudziem cilvēkiem - kolēģiem un cilvēkiem no citām valstīm, kas licis iemācīties sastrādāties ar  jebkuru. Iepriekš strādāju “Latvijas maizniekā” par aģentu - merčendaizeru. Ir nācies strādāt arī par pirotehniķi - būvēt un šaut svētku uguņošanas, kā arī veidot specefektus izrādēs Latvijas teātros. Domāju, ka esat redzējuši Skroderdienas Silmačos sprāgstošo krāsni! :) Brīvajā laikā patīk izmēģināt dažādus hobijus, kā piemēram, elektrisko dēļu uzbūve no 0, specefektu “Makeup” izveide vai 3D zīmēšana, katrā no tiem apgūstu ko jaunu un sev noderīgu. Patreiz esmu sapratis, ka vēlos apgūt kaut ko no IT nozares un mainīt savu patreizējo nodarbošānos, kuru neesmu mainījis jau vairākus gadus. Lidosta mēdz ievilkt sevī un nelaist vaļā. Pateicoties Eiropas finansētajam projektam “Mācības pieaugušajiem” nonācu līdz Automatizētās programmatūras testēšanas apguvei, kas man liekas priekš sevis interesantākais no plašā IT jomas piedāvājuma. Jau ilgāku laiku mēģināju saprast, kas būtu tas, kas mani IT jomā uzrunātu. Par sevi īsi un personiski - garšo karbonāde / steiks, patīk datori un datorspēles, būšana pie dabas.
+
+Links uz APT [kursu](https://edu.lu.lv/course/view.php?id=2225)
+
+![Bilde](https://cdn.pixabay.com/photo/2021/01/19/14/45/alley-5931413_960_720.jpg)
